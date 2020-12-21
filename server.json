@@ -1,0 +1,8 @@
+{
+    "web":{
+        "host":"0.0.0.0",
+        "rewrites":{
+            "enable":true
+        }
+    }
+}
