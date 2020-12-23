@@ -25,7 +25,7 @@
 			 "port":"${DB_PORT}",
 			 "class":"${DB_CLASS}",
 			 "username":"${DB_USER}",
-			 "password":"${DB_PASSWORD}",
+			 "password":"q2p0w3o9",
 			 "connectionLimit":"100",
 			 "connectionTimeout":"1"
 		 }

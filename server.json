@@ -1,4 +1,7 @@
 {
+    "app":{
+        "cfengine":"adobe@10"
+    },
     "web":{
         "host":"0.0.0.0",
         "rewrites":{
