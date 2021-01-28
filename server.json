@@ -1,7 +1,8 @@
 {
     "app":{
-        "cfengine":"adobe@10"
+        "cfengine":"lucee"
     },
+    "name":"server",
     "web":{
         "host":"0.0.0.0",
         "rewrites":{
